@@ -40,7 +40,7 @@ var (
 	Array32        byte = 0xdd
 
 	FixedMapLow  byte = 0x80
-	FixedMapHigh byte = 0x8f
+	FixedMapHigh byte = 0xcf
 	FixedMapMask byte = 0xf
 	Map16        byte = 0xde
 	Map32        byte = 0xdf
